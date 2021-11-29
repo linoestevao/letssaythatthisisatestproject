@@ -2,7 +2,9 @@
     "name": "letssaythatthisisatestproject",
     "description": "letssaythatthisisatestproject",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "@conversation-platform/cnv-pluggins": "1.60.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_DESKTOP-7P9T6GJ.json",
