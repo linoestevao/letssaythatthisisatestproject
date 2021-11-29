@@ -1,0 +1,12 @@
+{
+    "name": "letssaythatthisisatestproject",
+    "description": "letssaythatthisisatestproject",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_DESKTOP-7P9T6GJ.json",
+            "credentialsFile": "flows_DESKTOP-7P9T6GJ_cred.json"
+        }
+    }
+}
